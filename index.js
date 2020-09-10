@@ -21,5 +21,9 @@ class Dinner {
     this.soup = soup 
     this.entree = entree 
     this._dessert = dessert
+<<<<<<< HEAD
   }
 }
+=======
+  }
+>>>>>>> f2233d539ab3e4cf80439d341529f2598fab40b8
